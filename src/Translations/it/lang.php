@@ -16,7 +16,7 @@ return [
   'table-status'                     => 'Stato',
   'table-last-updated'               => 'Ultimo Aggiornamento',
   'table-priority'                   => 'Priorità',
-  'table-agent'                      => 'Agente',
+  'table-agent'                      => 'Referente Telematico',
   'table-category'                   => 'Categoria',
 
   // Datatables
@@ -47,7 +47,7 @@ return [
   'btn-mark-complete'                => 'Segna Completato',
   'btn-submit'                       => 'Invia',
 
-  'agent'                            => 'Agente',
+  'agent'                            => 'Referente',
   'category'                         => 'Categoria',
   'colon'                            => ': ',
   'comments'                         => 'Commenti',
@@ -95,11 +95,11 @@ return [
   */
 
 // AgentsController
-  'agents-are-added-to-agents'                      => 'Agents :names are added to agents',
-  'administrators-are-added-to-administrators'      => 'Administrators :names are added to administrators', //New
-  'agents-joined-categories-ok'                     => 'Joined categories successfully',
-  'agents-is-removed-from-team'                     => 'Removed agent\s :name from the agent team',
-  'administrators-is-removed-from-team'             => 'Removed administrator\s :name from the administrators team', // New
+  'agents-are-added-to-agents'                      => 'Referenti :names sono stati aggiunti ai Referenti',
+  'administrators-are-added-to-administrators'      => 'Amministratori :names aggiunti agli Amministratori', //New
+  'agents-joined-categories-ok'                     => 'Categorie collegate correttamente',
+  'agents-is-removed-from-team'                     => 'Rimuovi Referente/i :name dal gruppo referenti',
+  'administrators-is-removed-from-team'             => 'Rmuovi amministratore/i :name dal gruppo amministratori', // New
 
 // CategoriesController
   'category-name-has-been-created'   => 'La categoria :name è stata creata!',

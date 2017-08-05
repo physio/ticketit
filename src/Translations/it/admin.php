@@ -6,7 +6,7 @@ return [
   *  Constants
   */
   'nav-settings'                  => 'Impostazioni',
-  'nav-agents'                    => 'Agenti',
+  'nav-agents'                    => 'Referenti Telematici',
   'nav-dashboard'                 => 'Scrivania',
   'nav-categories'                => 'Categorie',
   'nav-priorities'                => 'Priorità',
@@ -20,7 +20,7 @@ return [
   'table-action'                  => 'Azione',
   'table-categories'              => 'Categorie',
   'table-join-category'           => 'Categorie Collegate',
-  'table-remove-agent'            => 'Rimuovi dagli agenti',
+  'table-remove-agent'            => 'Rimuovi dai Referenti Telematici',
   'table-remove-administrator'    => 'Rimuovi da amministratori', // New
 
   'table-slug'                    => 'Slug',
@@ -56,11 +56,11 @@ return [
   'index-6-months'                      => '6 mesi',
   'index-12-months'                     => '12 months',
   'index-tickets-share-per-category'    => 'Tickets condivisi per categoria',
-  'index-tickets-share-per-agent'       => 'Tickets condivisi per agente',
+  'index-tickets-share-per-agent'       => 'Tickets condivisi per Referente Telematico',
   'index-categories'                    => 'Categorie',
   'index-category'                      => 'Categoria',
-  'index-agents'                        => 'Agenti',
-  'index-agent'                         => 'Agente',
+  'index-agents'                        => 'Referenti Telematici',
+  'index-agent'                         => 'Referente Telematico',
   'index-administrators'                => 'Amministratori',  //new
   'index-administrator'                 => 'Amministratore',  //new
   'index-users'                         => 'Utenti',
@@ -72,17 +72,17 @@ return [
   'index-month'                         => 'Mese',
   'index-performance-chart'             => 'In media, in quanti giorni risolvi un ticket?',
   'index-categories-chart'              => 'Tickets distrituiti per categoria',
-  'index-agents-chart'                  => 'Tickets distribuiti per agente',
+  'index-agents-chart'                  => 'Tickets distribuiti per Referente telematico',
 
 // tickets-admin/agent/____
-  'agent-index-title'             => 'Gestione Agente',
-  'btn-create-new-agent'          => 'Crea nuovo Agente',
-  'agent-index-no-agents'         => 'Non ci sono agenti, ',
-  'agent-index-create-new'        => 'Aggiungi agenti',
-  'agent-create-title'            => 'Aggiungi agente',
-  'agent-create-add-agents'       => 'Aggiungi Agenti',
+  'agent-index-title'             => 'Gestione Referente',
+  'btn-create-new-agent'          => 'Crea nuovo Referente',
+  'agent-index-no-agents'         => 'Non ci sono Referenti, ',
+  'agent-index-create-new'        => 'Aggiungi Referenti Telematici',
+  'agent-create-title'            => 'Aggiungi Referente Telematico',
+  'agent-create-add-agents'       => 'Aggiungi Referenti',
   'agent-create-no-users'         => 'Non ci sono account utente, crea prima un account utente.',
-  'agent-create-select-user'      => 'Seleziona un account utente da aggiungere agli agenti',
+  'agent-create-select-user'      => 'Seleziona un account utente da aggiungere ai referenti',
 
 // tickets-admin/administrators/____
   'administrator-index-title'                   => 'Gestione Amministratori',  //new
